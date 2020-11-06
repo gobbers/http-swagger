@@ -6,8 +6,8 @@ import (
 	"testing"
 
 	"github.com/go-chi/chi"
+	_ "github.com/gobbers/http-swagger/example/go-chi/docs"
 	"github.com/stretchr/testify/assert"
-	_ "github.com/swaggo/http-swagger/example/go-chi/docs"
 )
 
 func TestWrapHandler(t *testing.T) {

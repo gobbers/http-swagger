@@ -1,3 +1,5 @@
+This is a fork of github.com/swaggo/http-swagger
+
 # http-swagger
 
 Default net/http wrapper to automatically generate RESTful API documentation with Swagger 2.0.
